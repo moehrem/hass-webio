@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+.HA_VERSION
+automations.yaml
+.gitignore
+configuration.yaml
+scenes.yaml
+scripts.yaml
+secrets.yaml
