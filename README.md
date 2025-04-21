@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://www.wut.de">
-    <img src="https://www.wut.de/pics/icon/e-wwwww-wt-grww-000.svg" alt="Wiesemann & Theis GmbH">
-  </a>
-</p>
-
 ---
 
 [![English](https://img.shields.io/badge/🇬🇧%20-English-blue)](README.en.md)
