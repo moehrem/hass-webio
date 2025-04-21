@@ -28,4 +28,12 @@
 
 ---
 
-# W&T webIO für HomeAssistant
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 1rem; flex-wrap: wrap;">
+
+  <a href="https://www.wut.de">
+    <img src="https://www.wut.de/pics/icon/e-wwwww-wt-grww-000.svg" alt="Wiesemann & Theis GmbH" height="80">
+  </a>
+
+  <h1 style="margin: 0;">W&amp;T webIO für HomeAssistant</h1>
+
+</div>
