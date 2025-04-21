@@ -1,0 +1,14 @@
+{
+    "domain": "hass-webio",
+    "name": "webIO",
+    "codeowners": ["@moehrem"],
+    "config_flow": true,
+    "dependencies": [],
+    "documentation": "https://github.com/moehrem/hass-webio",
+    "integration_type": "hub",
+    "iot_class": "local_polling",
+    "issue_tracker": "https://github.com/moehrem/hass-webio/issues",
+    "requirements": [],
+    "version": "0.0.1"
+  }
+  

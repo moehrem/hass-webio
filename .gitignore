@@ -179,3 +179,5 @@ configuration.yaml
 scenes.yaml
 scripts.yaml
 secrets.yaml
+custom_components/hass-webio/webIO.code-workspace
+webIO.code-workspace
