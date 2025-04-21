@@ -1,5 +1,3 @@
----
-
 [![English](https://img.shields.io/badge/🇬🇧%20-English-blue)](README.en.md)
 
 ---
@@ -22,12 +20,4 @@
 
 ---
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 1rem; flex-wrap: wrap;">
-
-  <a href="https://www.wut.de">
-    <img src="https://www.wut.de/pics/icon/e-wwwww-wt-grww-000.svg" alt="Wiesemann & Theis GmbH" height="80">
-  </a>
-
-  <h1 style="margin: 0;">W&amp;T webIO for HomeAssistant</h1>
-
-</div>
+# W&T webIO for HomeAssistant

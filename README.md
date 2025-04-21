@@ -1,5 +1,3 @@
----
-
 [![English](https://img.shields.io/badge/🇬🇧%20-English-blue)](README.en.md)
 
 ---
