@@ -61,11 +61,9 @@ Basierend auf dem Programmierhandbuch **1.73** (Stand 11/2024). Unterstützte Ge
 
 ### 🏆 HACS (empfohlen)
 
-1. HACS installieren:  
-   https://www.hacs.xyz/docs/use/
-2. Repository hinzufügen:  
-   https://my.home-assistant.io/redirect/hacs_repository/?owner=moehrem&repository=hass-webio&category=Integration  
-3. In HACS unten rechts auf **Herunterladen** klicken.
+1. [HACS installieren] (https://www.hacs.xyz/docs/use/)
+2. [![HACS Repo hinzufügen](https://my.home-assistant.io/redirect/hacs_repository/?owner=moehrem&repository=hass-webio&category=Integration)
+3. **Installation**: In HACS unten rechts auf **Herunterladen** klicken.
 
 ### 🔧 Manuelle Installation
 

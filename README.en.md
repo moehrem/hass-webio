@@ -61,11 +61,9 @@ Based on the Programming Manual **1.73** (as of 11/2024). Compatible devices inc
 
 ### 🏆 HACS (recommended)
 
-1. Install HACS:  
-   https://www.hacs.xyz/docs/use/  
-2. Add repository:  
-   https://my.home-assistant.io/redirect/hacs_repository/?owner=moehrem&repository=hass-webio&category=Integration  
-3. In HACS, click **Download** at the bottom right.
+1. [install HACS] (https://www.hacs.xyz/docs/use/)
+2. [![add custom repo to HACS](https://my.home-assistant.io/redirect/hacs_repository/?owner=moehrem&repository=hass-webio&category=Integration)
+3. **Setup**: Click "Download" at the bottom right.
 
 ### 🔧 Manual Installation
 
