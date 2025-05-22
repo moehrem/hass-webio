@@ -1,0 +1,26 @@
+{
+    "title": "webIO",
+    "config": {
+        "step": {
+            "user": {
+              "title": "webIO Setup",
+              "description": "Please enter IP and - if needed - your password for the webIO device.",
+              "data": {
+                "ip_address": "IP address",
+                "password": "password"
+              }
+            },
+            "inputs": {
+              "title": "Inputs",
+              "description": "Here you may enter the names of the inputs.\nWithout individual naming, a standard name will be set."
+            },
+            "outputs": {
+              "title": "Outputs",
+              "description": "Here you may enter the names of the outputs.\nWithout individual naming, a standard name will be set."
+            }
+        },
+        "error":{
+            "cannot_connect": "Error connection to webIO-device, please check IP address and/or password."
+        }
+    }
+  }
